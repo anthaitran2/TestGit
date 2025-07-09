@@ -29,7 +29,11 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
 
+<<<<<<< HEAD
       <p>an yeu phuong</p>
+=======
+      <p>an yeu thu phuong</p>
+>>>>>>> feature-ui
     </>
   );
 }
